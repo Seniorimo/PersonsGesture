@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/PersonsGesture/static/css/main.f855e6bc.css",
+    "main.js": "/PersonsGesture/static/js/main.f9abfef3.js",
+    "static/js/453.f5ea8363.chunk.js": "/PersonsGesture/static/js/453.f5ea8363.chunk.js",
+    "index.html": "/PersonsGesture/index.html",
+    "main.f855e6bc.css.map": "/PersonsGesture/static/css/main.f855e6bc.css.map",
+    "main.f9abfef3.js.map": "/PersonsGesture/static/js/main.f9abfef3.js.map",
+    "453.f5ea8363.chunk.js.map": "/PersonsGesture/static/js/453.f5ea8363.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.f9abfef3.js"
+  ]
+}
